@@ -1,0 +1,6 @@
+C:\Users\Dyffr\source\repos\Cadenas\Cadenas\obj\Debug\Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Dyffr\source\repos\Cadenas\Cadenas\bin\Debug\Cadenas.exe.config
+C:\Users\Dyffr\source\repos\Cadenas\Cadenas\bin\Debug\Cadenas.exe
+C:\Users\Dyffr\source\repos\Cadenas\Cadenas\bin\Debug\Cadenas.pdb
+C:\Users\Dyffr\source\repos\Cadenas\Cadenas\obj\Debug\Cadenas.exe
+C:\Users\Dyffr\source\repos\Cadenas\Cadenas\obj\Debug\Cadenas.pdb
