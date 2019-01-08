@@ -10,8 +10,8 @@ namespace Cadenas
     {
         static void Main(string[] args)
         {
-            string PrimerAmigo = "María";
-            string SegundoAmigo = "Sergio";
+            string PrimerAmigo = "Juan";
+            string SegundoAmigo = "Jorge";
             Console.WriteLine($"Mis amigos son {PrimerAmigo} y {SegundoAmigo}");
 
             Console.WriteLine($"El nombre de {PrimerAmigo} tiene {PrimerAmigo.Length} letras");
